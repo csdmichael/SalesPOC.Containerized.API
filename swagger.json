@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "https://salespoc-aca-api.azurewebsites.net/"
+      "url": "https://salespoc-aca-api.politedune-8bc3c466.westus2.azurecontainerapps.io"
     }
   ],
   "paths": {

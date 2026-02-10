@@ -9,7 +9,7 @@
   "jsonSchemaDialect": "https://spec.openapis.org/oas/3.1/dialect/base",
   "servers": [
     {
-      "url": "https://salespoc-aca-api.azurewebsites.net/"
+      "url": "https://salespoc-aca-api.politedune-8bc3c466.westus2.azurecontainerapps.io"
     }
   ],
   "paths": {
