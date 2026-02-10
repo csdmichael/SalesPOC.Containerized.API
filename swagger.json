@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "https://salespoc-api.azurewebsites.net/"
+      "url": "https://salespoc-aca-api.azurewebsites.net/"
     }
   ],
   "paths": {
